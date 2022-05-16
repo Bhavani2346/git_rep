@@ -1,0 +1,67 @@
+body{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color:#E4F9F5;
+    text-align: center;
+}
+h1{
+    color: #66BFBF;
+    line-height: 2;
+}
+h2{
+    color: #66BFBF;
+    font-weight: normal;
+}
+h3,a{
+    color: #11999E;
+}
+p{
+    color: #40514e;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+.top-cloud{
+    position: relative;
+    left: 300px;
+    margin-top: 25px;
+}
+.skill-row{
+    width: 50%;
+   margin: 100px auto;
+   text-align: left;
+   line-height: 2;
+}
+.computer_pic{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.chilli_pic{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+/* .DD_Desc{
+    clear: left;
+}
+.HW_Desc{
+    clear: right;
+} */
+hr{
+    border: dotted #4e5656 6px;
+    border-bottom:none;
+    width: 4%;
+
+}
+.top-container{
+    background-color: #eaf6f6;
+}
+.middle-container{
+    background-color: white;;
+}
+.bottom-container{
+    color: #66BFBF;
+}
